@@ -1,0 +1,17 @@
+pane	 config	1	1	:*	1	nvim  ~/.c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	0	nvim	:nvim
+pane	 config	1	1	:*	2	nvim  ~/D/D/c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	1	1	:*	3	✳ Lua Objects	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 ds/base-flux	1	1	:*	1	nvim +GoToFile ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim +GoToFile
+pane	 ds/base-flux	1	1	:*	2	~/D/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	0	fish	:
+pane	 r2luna/brain	1	1	:*	1	nvim  ~/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain-test	0	nvim	:nvim
+pane	 r2luna/brain	1	1	:*	2	~/D/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain-test	1	fish	:
+pane	 r2luna/max	1	1	:*	1	nvim  ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	nvim	:nvim
+pane	 vault	1	1	:*	1	nvim +GoToFile ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim +GoToFile
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	1	:*	a593,366x50,0,0{133x50,0,0,70,126x50,134,0,75,105x50,261,0,76}	:
+window	 ds/base-flux	1	:nvim	1	:*	5343,118x50,0,0{89x50,0,0,43,28x50,90,0,44}	:
+window	 r2luna/brain	1	:test	1	:*	47bb,264x50,0,0[264x25,0,0,46,264x24,0,26,47]	off
+window	 r2luna/max	1	:nvim	1	:*	5845,264x50,0,0,73	:
+window	 vault	1	:nvim	1	:*	5846,264x50,0,0,74	:
+window	0	1	:fish	1	:*	c53d,153x27,0,0,0	:
+state	 config	 r2luna/max

@@ -1,0 +1,12 @@
+pane	 r2luna/pingg	1	0	:	1	php artisan serve ~/c/0/0/1/api	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	1	php84	:php artisan serve
+pane	 r2luna/pingg	2	0	:-	1	nvim  ~/c/0/0/1/pingg	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/pingg	1	nvim	:nvim
+pane	 r2luna/pingg	2	0	:-	2	✳ Input Box Issue	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/pingg	0	claude	:claude
+pane	 r2luna/pingg	3	0	:	1	os ~/c/0/0/1/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/pingg	4	1	:*	1	go run . 1 ~/c/0/0/1/pingg	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/pingg	1	go	:go run . 1
+pane	 r2luna/pingg	5	0	:	1	nvim  ~/c/0/0/1/api	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	1	nvim	:nvim
+window	 r2luna/pingg	1	:php84	0	:	c53e,153x27,0,0,1	:
+window	 r2luna/pingg	2	:nvim	0	:-	e9e2,153x27,0,0{77x27,0,0,2,75x27,78,0,5}	:
+window	 r2luna/pingg	3	:nvim	0	:	c540,153x27,0,0,3	:
+window	 r2luna/pingg	4	:go	1	:*	c541,153x27,0,0,4	:
+window	 r2luna/pingg	5	:nvim	0	:	c543,153x27,0,0,6	:
+state	 r2luna/pingg	

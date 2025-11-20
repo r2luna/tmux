@@ -1,0 +1,16 @@
+pane	 config	1	0	:-	1	nvim  ~/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	nvim	:nvim
+pane	 config	1	0	:-	2	nvim  ~/D/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	1	nvim	:nvim
+pane	 config	1	0	:-	3	nvim  ~/D/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	nvim	:nvim
+pane	 config	2	1	:*	1	nvim  ~/.c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	2	1	:*	2	✳ Color Preference	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 config	3	0	:	1	nvim  ~/c/0/charm	:/Users/r2luna/Documents/code/00.play/charm	1	nvim	:nvim
+pane	 config	4	0	:	1	nvim  ~/D/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/00.projects/sparta	1	nvim	:nvim
+pane	 ds/pulse	1	1	:*	1	nvim  ~/c/0/0/pulse	:/Users/r2luna/Documents/code/02.ds/00.projects/pulse	1	nvim	:nvim
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:-	5771,224x47,0,0{112x47,0,0[112x23,0,0,16,112x23,0,24,29],111x47,113,0,27}	:
+window	 config	2	:nvim	1	:*	6eff,224x47,0,0{112x47,0,0,25,111x47,113,0,37}	:
+window	 config	3	:nvim	0	:	5840,264x50,0,0,30	:
+window	 config	4	:nvim	0	:	64c4,224x47,0,0,34	:
+window	 ds/pulse	1	:nvim	1	:*	64c5,224x47,0,0,35	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 ds/pulse	 config

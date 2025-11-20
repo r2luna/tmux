@@ -1,0 +1,4 @@
+pane	0	1	1	:*	1	nvim   ~/c/0/0/zmk-config	:/Users/r2luna/Documents/code/01.r2luna/02.keyboard/zmk-config	0	nvim	:nvim
+pane	0	1	1	:*	2	✳ Teclado Alinhamento	:/Users/r2luna/Documents/code/01.r2luna/02.keyboard/zmk-config	1	claude	:claude
+window	0	1	:claude	1	:*	e7ff,366x50,0,0{184x50,0,0,0,181x50,185,0,8}	:
+state	0	

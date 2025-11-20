@@ -1,0 +1,15 @@
+pane	 ds/pulse	1	1	:*	1	nvim ~/c/0/0/pulse	:/Users/r2luna/Documents/code/02.ds/00.projects/pulse	1	nvim	:nvim
+pane	 ds/sparta	1	0	:	1	nvim ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/00.projects/sparta	1	nvim	:nvim
+pane	 ds/sparta	2	0	:-	1	~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/00.projects/sparta	1	fish	:
+pane	 ds/sparta	3	1	:*	1	 os ~/c/0/0/sparta	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 vault	1	0	:-	1	nvim  ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 vault	2	1	:*	1	~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/pulse	1	:nvim	1	:*	6201,221x46,0,0,12	:
+window	 ds/sparta	1	:nvim	0	:	6202,221x46,0,0,13	:
+window	 ds/sparta	2	:fish	0	:-	6203,221x46,0,0,14	:
+window	 ds/sparta	3	:nvim	1	:*	6204,221x46,0,0,15	:
+window	 vault	1	:nvim	0	:-	61ff,221x46,0,0,10	:
+window	 vault	2	:fish	1	:*	6200,221x46,0,0,11	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 ds/sparta	 ds/pulse

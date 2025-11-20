@@ -1,0 +1,8 @@
+pane	 config	1	0	:-	1	php artisan serve ~/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	php84	:php artisan serve
+pane	 config	1	0	:-	2	✳ Laravel Error	:/Users/r2luna/Documents/code/00.play/lds-registration	1	claude	:claude
+pane	 config	2	1	:*	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:claude	0	:-	f976,221x46,0,0{110x46,0,0,16,110x46,111,0,17}	:
+window	 config	2	:fish	1	:*	58d7,366x50,0,0,18	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 config	

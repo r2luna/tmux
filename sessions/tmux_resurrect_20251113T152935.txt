@@ -1,0 +1,5 @@
+pane	 vault	1	1	:*	1	nvim  ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 vault	1	:nvim	1	:*	61ff,221x46,0,0,10	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 vault	0

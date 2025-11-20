@@ -1,0 +1,20 @@
+pane	 ds/base-flux	1	1	:*	1	nvim +GoToFile ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim +GoToFile
+pane	 ds/base-flux	1	1	:*	2	~/D/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	0	fish	:
+pane	 r2luna/brain	1	1	:*	1	nvim +GoToFile ~/c/0/0/brain	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain	1	nvim	:nvim +GoToFile
+pane	 r2luna/brain	2	0	:-	1	nvim  ~/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain-test	0	nvim	:nvim
+pane	 r2luna/brain	2	0	:-	2	~/D/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain-test	1	fish	:
+pane	 r2luna/pingg	1	1	:*	1	nvim  ~/c/0/0/0/pingg	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/pingg	1	nvim	:nvim
+pane	 r2luna/pingg	1	1	:*	2	✳ Go Debugging Function	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/pingg	0	claude	:claude
+pane	 r2luna/pingg	2	0	:-	1	os ~/c/0/0/0/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/pingg	3	0	:	1	php artisan app:serv ~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	php84	:php artisan app:serve
+pane	 r2luna/pingg	4	0	:	1	~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/base-flux	1	:nvim	1	:*	5343,118x50,0,0{89x50,0,0,43,28x50,90,0,44}	:
+window	 r2luna/brain	1	:brain	1	:*	e2d5,153x27,0,0,45	off
+window	 r2luna/brain	2	:test	0	:-	30df,190x50,0,0[190x25,0,0,46,190x24,0,26,47]	off
+window	 r2luna/pingg	1	:nvim	1	:*	224a,153x27,0,0{76x27,0,0,50,76x27,77,0,60}	:
+window	 r2luna/pingg	2	:docs	0	:-	62d1,153x27,0,0,31	off
+window	 r2luna/pingg	3	:[tmux]	0	:	62d3,153x27,0,0,52	:
+window	 r2luna/pingg	4	:fish	0	:	62d9,153x27,0,0,58	:
+window	0	1	:fish	1	:*	c53d,153x27,0,0,0	:
+state	 r2luna/pingg	 r2luna/brain

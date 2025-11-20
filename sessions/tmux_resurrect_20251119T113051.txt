@@ -1,0 +1,16 @@
+pane	 config	1	1	:*	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	1	nvim	:nvim
+pane	 config	1	1	:*	2	✳ Grade Change	:/Users/r2luna/Documents/Dev/config/aerospace	0	claude	:claude
+pane	 config	2	0	:	1	nvim  ~/c/0/0/zmk-config	:/Users/r2luna/Documents/code/01.r2luna/02.keyboard/zmk-config	1	nvim	:nvim
+pane	 config	3	0	:-	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 ds/base-flux	1	1	:*	1	nvim  ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	nvim	:nvim
+pane	 ds/base-flux	2	0	:	1	lazygit  ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	lazygit	:lazygit
+pane	 ds/base-flux	3	0	:	1	dev ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	node	:npm exec concurrently -c #fb7185,#fdba74 php artisan horizon bun run dev --names=queue,vite --kill-others        
+pane	 ds/base-flux	4	0	:-	1	~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	fish	:
+window	 config	1	:nvim	1	:*	fa94,366x50,0,0{183x50,0,0,28,182x50,184,0,29}	:
+window	 config	2	:nvim	0	:	64a0,275x37,0,0,30	:
+window	 config	3	:fish	0	:-	58d1,366x50,0,0,31	:
+window	 ds/base-flux	1	:nvim	1	:*	58d0,366x50,0,0,11	:
+window	 ds/base-flux	2	:lazygit	0	:	58d2,366x50,0,0,13	:
+window	 ds/base-flux	3	:node	0	:	58d6,366x50,0,0,17	:
+window	 ds/base-flux	4	:fish	0	:-	58d2,366x50,0,0,32	:
+state	 ds/base-flux	 config

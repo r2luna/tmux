@@ -1,0 +1,12 @@
+pane	 r2luna/max	1	1	:*	1	nvim . ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	0	nvim	:nvim .
+pane	 r2luna/max	1	1	:*	2	✳ Test Creation	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	claude	:claude
+pane	 r2luna/max	2	0	:	1	composer herd ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	php84	:php /Users/r2luna/Library/Application Support/Herd/bin/composer herd
+pane	 r2luna/max	3	0	:	1	lazygit  ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	lazygit	:lazygit
+pane	 r2luna/max	4	0	:-	1	~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 r2luna/max	1	:claude	1	:*	0cba,221x46,0,0{110x46,0,0,1,110x46,111,0,6}	:
+window	 r2luna/max	2	:php84	0	:	c39f,221x46,0,0,2	:
+window	 r2luna/max	3	:lazygit	0	:	c3a4,221x46,0,0,7	:
+window	 r2luna/max	4	:fish	0	:-	c3a5,221x46,0,0,8	:
+window	0	1	:fish	1	:*	c67d,108x46,0,0,0	:
+state	 r2luna/max	

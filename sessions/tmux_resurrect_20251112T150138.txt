@@ -1,0 +1,23 @@
+pane	 config	1	1	:*	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	0	nvim	:nvim
+pane	 config	1	1	:*	2	~/D/D/config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 config	2	0	:-	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	0	nvim	:nvim
+pane	 config	2	0	:-	2	~/D/D/config	:/Users/r2luna/Documents/Dev/config	0	fish	:
+pane	 config	2	0	:-	3	✳ File Adjustment	:/Users/r2luna/Documents/Dev/config/sketchybar	0	claude	:claude
+pane	 config	2	0	:-	4	✳ Color Selection	:/Users/r2luna/Documents/Dev/config/sketchybar	1	claude	:claude
+pane	 r2luna/max	1	0	:	1	nvim  ~/D/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.projects/max	1	nvim	:nvim
+pane	 r2luna/max	2	1	:*	1	os ~/c/0/0/max	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/max	3	0	:-	1	lazygit ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.projects/max	1	lazygit	:lazygit
+pane	 r2luna/max	4	0	:	1	os ~/c/0/0/max	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/max	5	0	:	1	nvim  ~/Documents	:/Users/r2luna/Documents	1	nvim	:nvim
+pane	 vault	1	1	:*	1	~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	fish	:
+pane	0	1	1	:*	1	ec ~	:/Users/r2luna/Documents/Dev/config/sesh	1	nvim	:nvim
+window	 config	1	:fish	1	:*	ffc7,190x33,0,0{98x33,0,0,13,91x33,99,0,21}	:
+window	 config	2	:claude	0	:-	697c,190x33,0,0{95x33,0,0[95x16,0,0,14,95x16,0,17,24],94x33,96,0[94x16,96,0,19,94x16,96,17,20]}	:
+window	 r2luna/max	1	:nvim	0	:	b6c4,190x33,0,0,7	:
+window	 r2luna/max	2	:nvim	1	:*	b6c3,190x33,0,0,6	:
+window	 r2luna/max	3	:lazygit	0	:-	5b8f,190x33,0,0,10	:
+window	 r2luna/max	4	:nvim	0	:	db96,190x33,0,0,27	:
+window	 r2luna/max	5	:nvim	0	:	5b90,190x33,0,0,30	:
+window	 vault	1	:fish	1	:*	6205,221x46,0,0,16	:
+window	0	1	:nvim	1	:*	b0bd,118x50,0,0,0	:
+state	 r2luna/max	 config

@@ -1,0 +1,7 @@
+pane	 r2luna/max	1	1	:*	1	nvim ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	nvim	:nvim
+pane	 r2luna/max	2	0	:-	1	composer herd ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	php84	:php /Users/r2luna/Library/Application Support/Herd/bin/composer herd
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 r2luna/max	1	:nvim	1	:*	c39e,221x46,0,0,1	:
+window	 r2luna/max	2	:php84	0	:-	c3a1,221x46,0,0,4	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 r2luna/max	

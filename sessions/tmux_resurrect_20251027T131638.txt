@@ -1,0 +1,9 @@
+pane	 ds/sparta	1	0	:-	1	nvim . ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/02.00.projects/sparta	1	nvim	:nvim .
+pane	 ds/sparta	2	0	:	1	lazygit ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/02.00.projects/sparta	1	lazygit	:lazygit
+pane	 ds/sparta	3	1	:*	1	nvim . ~/.c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim .
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/sparta	1	:nvim	0	:-	c3a6,221x46,0,0,9	:
+window	 ds/sparta	2	:lazygit	0	:	61ff,221x46,0,0,10	:
+window	 ds/sparta	3	:nvim	1	:*	6200,221x46,0,0,11	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 ds/sparta	0

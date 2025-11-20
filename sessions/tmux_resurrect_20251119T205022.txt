@@ -1,0 +1,7 @@
+pane	 pa/academy	1	1	:*	1	nvim ~/c/0/0/pinguim.academy	:/Users/r2luna/Documents/code/03.pa/00.projetos/pinguim.academy	1	nvim	:nvim
+pane	 pa/academy	2	0	:-	1	lazygit  ~/c/0/0/pinguim.academy	:/Users/r2luna/Documents/code/03.pa/00.projetos/pinguim.academy	1	lazygit	:lazygit
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 pa/academy	1	:nvim	1	:*	c39e,221x46,0,0,1	:
+window	 pa/academy	2	:lazygit	0	:-	c39f,221x46,0,0,2	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 pa/academy	0

@@ -1,0 +1,22 @@
+pane	 config	1	1	:*	1	nvim  ~/D/D/c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	1	1	:*	2	✳ Vim Plugin	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 config	2	0	:	1	php artisan serve ~/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	php84	:php artisan serve
+pane	 config	2	0	:	2	✳ Laravel Error	:/Users/r2luna/Documents/code/00.play/lds-registration	1	claude	:claude
+pane	 config	3	0	:-	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 vault	1	1	:*	1	nvim  ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	0	nvim	:nvim
+pane	 vault	1	1	:*	2	claude ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	claude	:claude
+pane	 vault	2	0	:-	1	~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	fish	:
+pane	 vault	3	0	:	1	~/c/02.ds	:/Users/r2luna/Documents/code/02.ds	1	fish	:
+pane	 vault	4	0	:	1	[server] ~/.c/d/homebridge	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	ssh	:ssh home@server.local
+pane	 vault	4	0	:	2	[server] ~	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	0	ssh	:ssh home@server.local
+pane	 vault	4	0	:	3	~/D/D/macos	:/Users/r2luna/Documents/Dev/macos	0	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	1	:*	3b6c,366x50,0,0{231x50,0,0,7,134x50,232,0,3}	:
+window	 config	2	:claude	0	:	f976,221x46,0,0{110x46,0,0,16,110x46,111,0,17}	:
+window	 config	3	:fish	0	:-	6207,221x46,0,0,18	:
+window	 vault	1	:claude	1	:*	c7b4,264x50,0,0[264x25,0,0,13,264x24,0,26,24]	:
+window	 vault	2	:fish	0	:-	5843,264x50,0,0,14	:
+window	 vault	3	:fish	0	:	58d8,366x50,0,0,19	:
+window	 vault	4	:ssh	0	:	6023,264x50,0,0{132x50,0,0[132x25,0,0,21,132x24,0,26,23],131x50,133,0,22}	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 vault	 config

@@ -1,0 +1,16 @@
+pane	 r2luna/pingg	1	1	:*	1	nvim  ~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	0	nvim	:nvim
+pane	 r2luna/pingg	1	1	:*	2	composer install  ~/D/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	php84	:php /Users/r2luna/Library/Application Support/Herd/bin/composer install
+pane	 r2luna/pingg	1	1	:*	3	~/D/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	0	fish	:
+pane	 r2luna/pingg	2	0	:	1	os ~/c/0/0/0/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/pingg	3	0	:	1	~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	fish	:
+pane	 r2luna/pingg	3	0	:	2	~/D/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	0	fish	:
+pane	 r2luna/pingg	4	0	:-	1	nvim  ~/c/0/supodev	:/Users/r2luna/Documents/code/00.play/supodev	1	nvim	:nvim
+pane	 r2luna/pingg	4	0	:-	2	php artisan app:serv ~/D/c/0/supodev	:/Users/r2luna/Documents/code/00.play/supodev	0	php84	:php artisan app:serve
+pane	 r2luna/pingg	4	0	:-	3	~/D/c/0/supodev	:/Users/r2luna/Documents/code/00.play/supodev	0	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 r2luna/pingg	1	:php84	1	:*	8d0c,264x50,0,0[264x25,0,0,30,264x24,0,26{132x24,0,26,40,131x24,133,26,41}]	:
+window	 r2luna/pingg	2	:nvim	0	:	5841,264x50,0,0,31	:
+window	 r2luna/pingg	3	:fish	0	:	e303,264x50,0,0{132x50,0,0,32,131x50,133,0,34}	:
+window	 r2luna/pingg	4	:nvim	0	:-	d809,264x50,0,0{112x50,0,0[112x25,0,0,37,112x24,0,26,42],151x50,113,0,38}	:
+window	0	1	:fish	1	:*	c53d,153x27,0,0,0	:
+state	 r2luna/pingg	

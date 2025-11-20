@@ -1,0 +1,17 @@
+pane	 ds/base-flux	1	1	:*	1	nvim +GoToFile ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim +GoToFile
+pane	 ds/base-flux	2	0	:	1	lazygit ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	lazygit	:lazygit
+pane	 ds/base-flux	3	0	:-	1	os ~/c/0/0/base-internal	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim .
+pane	 pa/academy	1	1	:*	1	nvim +GoToFile ~/c/0/0/pinguim.academy	:/Users/r2luna/Documents/code/03.pa/03.00.projetos/pinguim.academy	1	nvim	:nvim +GoToFile
+pane	 r2luna/brain	1	1	:*	1	os ~/c/0/0/brain	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim .
+pane	 r2luna/max	1	1	:*	1	nvim +GoToFile ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	nvim	:nvim +GoToFile
+pane	 r2luna/max	2	0	:-	1	~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/base-flux	1	:nvim	1	:*	62f7,163x46,0,0,18	:
+window	 ds/base-flux	2	:lazygit	0	:	6208,221x46,0,0,19	:
+window	 ds/base-flux	3	:nvim	0	:-	e2ef,163x46,0,0,20	:
+window	 pa/academy	1	:nvim	1	:*	e2f2,163x46,0,0,23	:
+window	 r2luna/brain	1	:nvim	1	:*	e2f4,163x46,0,0,25	:
+window	 r2luna/max	1	:nvim	1	:*	62f1,163x46,0,0,12	:
+window	 r2luna/max	2	:fish	0	:-	62f2,163x46,0,0,13	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 r2luna/brain	 r2luna/max

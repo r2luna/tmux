@@ -1,0 +1,32 @@
+pane	 config	1	0	:	1	nvim  ~/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	nvim	:nvim
+pane	 config	1	0	:	2	nvim  ~/D/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	1	nvim	:nvim
+pane	 config	1	0	:	3	nvim  ~/D/c/0/lds-registration	:/Users/r2luna/Documents/code/00.play/lds-registration	0	nvim	:nvim
+pane	 config	2	1	:*	1	nvim main.go ~/c/0/charm	:/Users/r2luna/Documents/code/00.play/charm	0	nvim	:nvim main.go
+pane	 config	2	1	:*	2	nvim  ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/00.projects/sparta	1	nvim	:nvim
+pane	 config	3	0	:-	1	ec ~/D/c/0/0/sparta	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	3	0	:-	2	✳ Lua Colorscheme	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 ds/sparta	1	1	:*	1	nvim +GoToFile ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/00.projects/sparta	1	nvim	:nvim +GoToFile
+pane	 r2luna/brain	1	1	:*	1	nvim  ~/c/0/0/brain	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain	1	nvim	:nvim
+pane	 r2luna/brain	1	1	:*	2	✳ Reflection Method	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain	0	claude	:claude
+pane	 r2luna/brain	2	0	:-	1	~/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain-test	0	fish	:
+pane	 r2luna/brain	2	0	:-	2	~/D/c/0/0/brain-test-domain	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain-test-domain	1	fish	:
+pane	 r2luna/brain	3	0	:	1	lazygit ~/c/0/0/brain	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain	1	lazygit	:lazygit
+pane	 r2luna/brain	4	0	:	1	nvim  ~/c/0/0/brain-test	:/Users/r2luna/Documents/code/01.r2luna/01.projects/brain-test	1	nvim	:nvim
+pane	 vault	1	0	:	1	ec ~/D/D/macos	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 vault	2	0	:-	1	os ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 vault	3	1	:*	1	ec ~/L/M/i/D/Notes	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 vault	3	1	:*	2	✳ Telescope TodoTelescope	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:	a695,221x46,0,0{110x46,0,0[110x23,0,0,16,110x22,0,24,29],110x46,111,0,27}	:
+window	 config	2	:nvim	1	:*	f974,221x46,0,0{110x46,0,0,30,110x46,111,0,56}	:
+window	 config	3	:nvim	0	:-	7977,221x46,0,0{110x46,0,0,34,110x46,111,0,57}	:
+window	 ds/sparta	1	:nvim	1	:*	d845,264x50,0,0,45	:
+window	 r2luna/brain	1	:nvim	1	:*	9c3d,221x46,0,0{172x46,0,0,41,48x46,173,0,44}	:
+window	 r2luna/brain	2	:fish	0	:-	b974,221x46,0,0{110x46,0,0,43,110x46,111,0,52}	:
+window	 r2luna/brain	3	:lazygit	0	:	d848,264x50,0,0,48	:
+window	 r2luna/brain	4	:nvim	0	:	5842,264x50,0,0,51	:
+window	 vault	1	:nvim	0	:	6209,221x46,0,0,58	:
+window	 vault	2	:nvim	0	:-	e203,221x46,0,0,62	:
+window	 vault	3	:nvim	1	:*	7977,221x46,0,0{110x46,0,0,64,110x46,111,0,65}	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 vault	

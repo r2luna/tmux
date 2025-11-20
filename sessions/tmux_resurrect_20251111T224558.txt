@@ -1,0 +1,5 @@
+pane	 r2luna/max	1	1	:*	1	~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.projects/max	1	fish	:
+pane	0	1	1	:*	1	ec ~	:/Users/r2luna/Documents/Dev/config/sesh	1	nvim	:nvim
+window	 r2luna/max	1	:fish	1	:*	af61,291x50,0,0,4	:
+window	0	1	:nvim	1	:*	af5d,291x50,0,0,0	:
+state	 r2luna/max	0

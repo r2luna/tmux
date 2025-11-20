@@ -1,0 +1,17 @@
+pane	 ds/base-flux	1	0	:	1	os ~/c/0/0/base-internal	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim .
+pane	 ds/base-flux	2	0	:	1	nvim . ~/c/0/0/flux-modules	:/Users/r2luna/Documents/code/02.ds/02.00.projects/flux-modules	1	nvim	:nvim .
+pane	 ds/base-flux	3	0	:-	1	~/c/0/0/flux-modules	:/Users/r2luna/Documents/code/02.ds/02.00.projects/flux-modules	1	fish	:
+pane	 ds/base-flux	4	1	:*	1	nvim . ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim .
+pane	 r2luna/max	1	1	:*	1	nvim . ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	nvim	:nvim .
+pane	 r2luna/max	2	0	:-	1	~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/max	1	fish	:
+pane	 vault	1	1	:*	1	nvim +GoToFile ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim +GoToFile
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/base-flux	1	:nvim	0	:	d7ef,140x41,0,0,20	:
+window	 ds/base-flux	2	:nvim	0	:	d7f1,140x41,0,0,41	:
+window	 ds/base-flux	3	:[tmux]	0	:-	d7f2,140x41,0,0,42	:
+window	 ds/base-flux	4	:nvim	1	:*	d7f4,140x41,0,0,44	:
+window	 r2luna/max	1	:nvim	1	:*	5741,59x41,0,0,12	:
+window	 r2luna/max	2	:fish	0	:-	62f2,163x46,0,0,13	:
+window	 vault	1	:nvim	1	:*	57f4,140x41,0,0,34	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 ds/base-flux	 vault

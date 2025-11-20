@@ -1,0 +1,11 @@
+pane	 config	1	1	:*	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	1	nvim	:nvim
+pane	 config	1	1	:*	2	✳ Git Ignore Issue	:/Users/r2luna/Documents/Dev/config	0	claude	:claude
+pane	 ds/base-flux	1	1	:*	1	nvim ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	0	nvim	:nvim
+pane	 ds/base-flux	1	1	:*	2	✳ Namespace Update	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	claude	:claude
+pane	 ds/base-flux	2	0	:-	1	~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	fish	:
+pane	0	1	1	:*	1	~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	fish	:
+window	 config	1	:nvim	1	:*	fa90,366x50,0,0{183x50,0,0,24,182x50,184,0,25}	:
+window	 ds/base-flux	1	:claude	1	:*	7a90,366x50,0,0{183x50,0,0,22,182x50,184,0,26}	:
+window	 ds/base-flux	2	:fish	0	:-	d8d2,366x50,0,0,23	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 ds/base-flux	 config

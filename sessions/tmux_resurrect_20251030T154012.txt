@@ -1,0 +1,26 @@
+pane	 config	1	0	:-	1	ec ~/.c/fish	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	2	1	:*	1	nvim  ~/c/0/livewire-04	:/Users/r2luna/Documents/code/00.play/livewire-04	1	nvim	:nvim
+pane	 config	2	1	:*	2	~/D/c/0/livewire-04	:/Users/r2luna/Documents/code/00.play/livewire-04	0	fish	:
+pane	 config	3	0	:	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 config	4	0	:	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 ds/base-flux	1	0	:-	1	os ~/c/0/0/base-internal	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim .
+pane	 ds/base-flux	2	0	:	1	nvim . ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim .
+pane	 ds/base-flux	3	0	:	1	~/c/0/0/b/modules	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal/modules	1	fish	:
+pane	 ds/base-flux	4	1	:*	1	lazygit ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	lazygit	:lazygit
+pane	 ds/sparta	1	1	:*	1	nvim +GoToFile ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/02.00.projects/sparta	1	nvim	:nvim +GoToFile
+pane	 ds/sparta	2	0	:-	1	lazygit ~/c/0/0/sparta	:/Users/r2luna/Documents/code/02.ds/02.00.projects/sparta	1	lazygit	:lazygit
+pane	 vault	1	1	:*	1	nvim +GoToFile ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim +GoToFile
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:-	62f6,163x46,0,0,55	:
+window	 config	2	:nvim	1	:*	4112,163x46,0,0[163x33,0,0,60,163x12,0,34,73]	:
+window	 config	3	:fish	0	:	e2f5,163x46,0,0,64	:
+window	 config	4	:fish	0	:	e2f7,163x46,0,0,66	:
+window	 ds/base-flux	1	:nvim	0	:-	e2ef,163x46,0,0,20	:
+window	 ds/base-flux	2	:nvim	0	:	e2f4,163x46,0,0,44	:
+window	 ds/base-flux	3	:[tmux]	0	:	e2f5,163x46,0,0,45	:
+window	 ds/base-flux	4	:lazygit	1	:*	e2f8,163x46,0,0,48	:
+window	 ds/sparta	1	:nvim	1	:*	62f1,163x46,0,0,50	:
+window	 ds/sparta	2	:lazygit	0	:-	62f2,163x46,0,0,51	:
+window	 vault	1	:nvim	1	:*	57f4,140x41,0,0,34	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 config	 ds/sparta

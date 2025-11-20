@@ -1,0 +1,10 @@
+pane	 config	1	1	:*	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	1	nvim	:nvim
+pane	 config	1	1	:*	2	✳ Debug Removal	:/Users/r2luna/Documents/Dev/config	0	claude	:claude
+pane	 config	2	0	:-	1	os ~/.config	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 config	3	0	:	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	1	:*	f976,221x46,0,0{110x46,0,0,16,110x46,111,0,17}	:
+window	 config	2	:nvim	0	:-	6207,221x46,0,0,18	:
+window	 config	3	:fish	0	:	6208,221x46,0,0,19	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 config	0

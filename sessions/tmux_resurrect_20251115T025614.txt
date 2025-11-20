@@ -1,0 +1,18 @@
+pane	 config	1	0	:	1	nvim ~/.config	:/Users/r2luna/Documents/Dev/config	0	nvim	:nvim
+pane	 config	1	0	:	2	✳ Git Ignore Issue	:/Users/r2luna/Documents/Dev/config	1	claude	:claude
+pane	 config	2	1	:*	1	nvim  ~/c/0/0/zmk-config	:/Users/r2luna/Documents/code/01.r2luna/02.keyboard/zmk-config	1	nvim	:nvim
+pane	 config	2	1	:*	2	✳ Git Rollback	:/Users/r2luna/Documents/code/01.r2luna/02.keyboard/zmk-config	0	claude	:claude
+pane	 config	3	0	:-	1	~/.c/leader_key	:/Users/r2luna/Documents/Dev/config/leader_key	1	fish	:
+pane	 ds/base-flux	1	1	:*	1	nvim ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	nvim	:nvim
+pane	 ds/base-flux	1	1	:*	2	✳ Namespace Update	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	0	claude	:claude
+pane	 ds/base-flux	2	0	:-	1	~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	fish	:
+pane	 vault	1	1	:*	1	nvim ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	0	1	1	:*	1	~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/00.projects/base-internal	1	fish	:
+window	 config	1	:claude	0	:	e304,264x50,0,0{132x50,0,0,24,131x50,133,0,25}	:
+window	 config	2	:nvim	1	:*	2305,264x50,0,0{132x50,0,0,29,131x50,133,0,30}	:
+window	 config	3	:fish	0	:-	5842,264x50,0,0,32	:
+window	 ds/base-flux	1	:nvim	1	:*	7a90,366x50,0,0{183x50,0,0,22,182x50,184,0,26}	:
+window	 ds/base-flux	2	:fish	0	:-	d8d2,366x50,0,0,23	:
+window	 vault	1	:nvim	1	:*	d8d6,366x50,0,0,27	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 config	 vault

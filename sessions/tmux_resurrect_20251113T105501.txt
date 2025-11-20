@@ -1,0 +1,13 @@
+pane	 config	1	0	:-	1	nvim sketchybar/ ~/.config	:/Users/r2luna/Documents/Dev/config	1	nvim	:nvim sketchybar/
+pane	 config	1	0	:-	2	nvim  ~/D/D/c/sketchybar	:/Users/r2luna/Documents/Dev/config/sketchybar	0	nvim	:nvim
+pane	 config	1	0	:-	3	✳ Calendar Event Filtering	:/Users/r2luna/Documents/Dev/config/sketchybar	0	claude	:claude
+pane	 config	2	1	:*	1	~/.config	:/Users/r2luna/Documents/Dev/config	1	fish	:
+pane	 r2luna/max	1	1	:*	1	nvim ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.projects/max	1	nvim	:nvim
+pane	 r2luna/max	2	0	:-	1	dev ~/c/0/0/max	:/Users/r2luna/Documents/code/01.r2luna/01.projects/max	1	node	:npm exec concurrently -c #fb7185,#fdba74 php artisan horizon bun run dev --names=queue,vite --kill-others        
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:-	c75d,180x50,0,0{89x50,0,0,1,90x50,90,0[90x24,90,0,4,90x25,90,25,11]}	:
+window	 config	2	:fish	1	:*	5773,180x50,0,0,14	:
+window	 r2luna/max	1	:nvim	1	:*	58d1,366x50,0,0,12	:
+window	 r2luna/max	2	:node	0	:-	5c02,244x33,0,0,13	:
+window	0	1	:fish	1	:*	bf9d,221x45,0,0,0	:
+state	 config	 r2luna/max

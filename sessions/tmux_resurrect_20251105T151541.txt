@@ -1,0 +1,9 @@
+pane	 r2luna/pingg	1	1	:*	1	nvim  ~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	nvim	:nvim
+pane	 r2luna/pingg	2	0	:	1	os ~/c/0/0/0/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/pingg	3	0	:-	1	~/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 r2luna/pingg	1	:nvim	1	:*	e2d5,153x27,0,0,26	:
+window	 r2luna/pingg	2	:docs	0	:	e2d8,153x27,0,0,29	off
+window	 r2luna/pingg	3	:fish	0	:-	62d0,153x27,0,0,30	:
+window	0	1	:fish	1	:*	c53d,153x27,0,0,0	:
+state	 r2luna/pingg	0

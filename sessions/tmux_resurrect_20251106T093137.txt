@@ -1,0 +1,10 @@
+pane	 ds/base-flux	1	1	:*	1	nvim +GoToFile ~/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	1	nvim	:nvim +GoToFile
+pane	 ds/base-flux	1	1	:*	2	~/D/c/0/0/base-internal	:/Users/r2luna/Documents/code/02.ds/02.00.projects/base-internal	0	fish	:
+pane	 r2luna/brain	1	1	:*	1	nvim +GoToFile ~/c/0/0/brain	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/brain	1	nvim	:nvim +GoToFile
+pane	 r2luna/pingg	1	1	:*	1	os ~/c/0/0/0/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 ds/base-flux	1	:nvim	1	:*	2aca,180x50,0,0{120x50,0,0,43,59x50,121,0,44}	:
+window	 r2luna/brain	1	:nvim	1	:*	d775,180x50,0,0,45	:
+window	 r2luna/pingg	1	:docs	1	:*	5771,180x50,0,0,31	off
+window	0	1	:fish	1	:*	c53d,153x27,0,0,0	:
+state	 r2luna/brain	 ds/base-flux

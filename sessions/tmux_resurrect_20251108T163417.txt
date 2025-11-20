@@ -1,0 +1,12 @@
+pane	 config	1	0	:-	1	nvim  ~/D/D/c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	1	0	:-	2	✳ Vim Plugin	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 config	2	1	:*	1	nvim  ~/D/c/0/0/0/api	:/Users/r2luna/Documents/code/01.r2luna/01.01.projects/01.01.10.pingg.chat/api	1	nvim	:nvim
+pane	 vault	1	0	:-	1	nvim  ~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 vault	2	1	:*	1	~/L/M/i/D/Notes	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	fish	:
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:-	9332,180x50,0,0{137x50,0,0,7,42x50,138,0,3}	:
+window	 config	2	:nvim	1	:*	5771,180x50,0,0,12	:
+window	 vault	1	:nvim	0	:-	5772,180x50,0,0,13	:
+window	 vault	2	:fish	1	:*	5773,180x50,0,0,14	:
+window	0	1	:fish	1	:*	b13d,366x50,0,0,0	:
+state	 config	 vault
