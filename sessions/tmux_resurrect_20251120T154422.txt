@@ -1,0 +1,13 @@
+pane	 r2luna/pingg	1	0	:	1	php artisan serve ~/c/0/0/1/api	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	1	php84	:php artisan serve
+pane	 r2luna/pingg	2	0	:-	1	nvim  ~/c/0/0/1/pingg	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/pingg	0	nvim	:nvim
+pane	 r2luna/pingg	2	0	:-	2	✳ Build Configuration	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/pingg	1	claude	:claude
+pane	 r2luna/pingg	3	0	:	1	os ~/c/0/0/1/api	:/Users/r2luna/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Notes	1	nvim	:nvim
+pane	 r2luna/pingg	4	0	:	1	nvim ~/D/c/0/0/1/api	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	1	nvim	:nvim
+pane	 r2luna/pingg	4	0	:	2	✳ Terminal Input Handling	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	0	claude	:claude
+pane	 r2luna/pingg	5	1	:*	1	pingg 2 ~/c/0/0/1/api	:/Users/r2luna/Documents/code/01.r2luna/01.projects/10.pingg.chat/api	1	pingg	:pingg 2
+window	 r2luna/pingg	1	:php84	0	:	c53e,153x27,0,0,1	:
+window	 r2luna/pingg	2	:claude	0	:-	e9e2,153x27,0,0{77x27,0,0,2,75x27,78,0,5}	:
+window	 r2luna/pingg	3	:nvim	0	:	c540,153x27,0,0,3	:
+window	 r2luna/pingg	4	:nvim	0	:	624a,153x27,0,0{76x27,0,0,12,76x27,77,0,13}	:
+window	 r2luna/pingg	5	:pingg	1	:*	62d3,153x27,0,0,14	:
+state	 r2luna/pingg	

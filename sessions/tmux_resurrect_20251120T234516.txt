@@ -1,0 +1,13 @@
+pane	 config	1	0	:-	1	nvim  ~/.c/nvim	:/Users/r2luna/Documents/Dev/config/nvim	1	nvim	:nvim
+pane	 config	1	0	:-	2	✳ Lualine Config	:/Users/r2luna/Documents/Dev/config/nvim	0	claude	:claude
+pane	 config	2	1	:*	1	✳ UI Design	:/Users/r2luna/Documents/Dev/config	1	claude	:claude
+pane	 config	3	0	:	1	nvim  ~/c/0/0/pinnord.nvim	:/Users/r2luna/Documents/code/01.r2luna/01.projects/pinnord.nvim	1	nvim	:nvim
+pane	 config	3	0	:	2	✳ Name Change	:/Users/r2luna/Documents/code/01.r2luna/01.projects/pinnord.nvim	0	claude	:claude
+pane	 pa/academy	1	1	:*	1	nvim  ~/c/0/0/pinguim.academy	:/Users/r2luna/Documents/code/03.pa/00.projetos/pinguim.academy	1	nvim	:nvim
+pane	0	1	1	:*	1	~	:/Users/r2luna	1	fish	:
+window	 config	1	:nvim	0	:-	1d97,264x50,0,0{132x50,0,0,1,131x50,133,0,5}	:
+window	 config	2	:claude	1	:*	b023,264x50,0,0,6	:
+window	 config	3	:nvim	0	:	1d9f,264x50,0,0{132x50,0,0,7,131x50,133,0,9}	:
+window	 pa/academy	1	:nvim	1	:*	b01f,264x50,0,0,2	:
+window	0	1	:fish	1	:*	c39d,221x46,0,0,0	:
+state	 config	 pa/academy
